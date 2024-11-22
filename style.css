@@ -1,0 +1,9 @@
+s {
+    text-decoration: none;
+}
+
+div#waifu {
+    right: 20px;
+    left: initial;
+    z-index: 100;
+}
