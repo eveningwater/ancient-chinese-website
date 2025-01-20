@@ -1,5 +1,6 @@
-body {
-    font-family: Source Han Serif,HanaMinB,SimSun,Songti SC,Jigmo,Jigmo2,Jigmo3;
+
+:root {
+    --vp-font-family-base: "Inter", ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji",Source Han Serif,HanaMinB,SimSun,Songti SC,Jigmo,Jigmo2,Jigmo3;
 }
 s {
     text-decoration: none;
