@@ -20,3 +20,7 @@ div#waifu {
     padding: 15px;
     margin-top: 15px;
 }
+
+.cursor-pointer {
+    cursor: pointer;
+}
