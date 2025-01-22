@@ -55,3 +55,7 @@ div#waifu {
     line-height: 28px;
     margin-top: 12px
 }
+
+.read-text-icon:hover {
+    color:#2396ef;
+}
