@@ -8,7 +8,7 @@ const base =
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base,
-  outDir: "./dist",
+  outDir: "./ancient-chinese-website",
   title: "古汉语词典在线网站",
   description: "一个古汉语在线网站",
   head: [
