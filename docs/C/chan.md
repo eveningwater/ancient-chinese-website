@@ -88,9 +88,9 @@ search: true # 或 false
 
 （readchánread）：
 
-➀
+➀ [欃檀]檀树的别称。司马相如《上林赋》：“～～木兰。”
 
-➁
+➁ [欃枪]慧星名。《淮南子·俶真》：“～～衡<ac-font-source text="杓" :explain="{pinyin:'biāo',explain:[{explain:'北斗第五、六、七颗星的名称。',source:'古汉语字典'}],more:'../B/biao#杓'}" />之气，莫不弥靡而不能为害。”（衡：北斗七星的第五星。杓：北斗七星柄部的三颗星。）
 
 ## 巉
 
