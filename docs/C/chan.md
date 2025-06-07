@@ -102,9 +102,11 @@ search: true # 或 false
 
 （readchánread）：
 
-➀
+➀ 锐利。用以形容治病的石针。《素问·汤液醪醴论》：“必齐毒药攻其中，～石针<ac-font-source text="艾" :explain="{pinyin:'ài',explain:[{explain:'多年生草本植物，叶子有香气，可入药，内服可做止血剂，又供灸法上用。也叫艾蒿。',source:'古汉语字典'}],more:'../A/ai#艾'}" />治其外也。”[镵针]中医“九针”之一。《灵枢经·九针十二原》：“～～者，头大末锐，去泻阳气。”
 
-➁
+➁ 针刺。《淮南子·泰族》：“夫刻肌肤，～皮革。”
+
+➂ 一种掘土工具。杜甫《乾元中寓居同谷县作歌七首》之二：“长～长～白木<ac-font-source text="柄" :explain="{pinyin:'bǐng',explain:[{explain:'斧柄，泛指器物的把儿。',source:'古汉语字典'}],more:'../B/bing#柄'}" />，我生托子以为命。”
 
 ## 孱
 
