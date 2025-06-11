@@ -91,7 +91,7 @@ export default defineConfig({
         const text = tokens[idx].content;
 
         const transformedText = text.replace(
-          /o\s+([\u4e00-\u9fa5])\s+o/g,
+          /o\s*([\u4e00-\u9fa5])\s*o/g,
           (_match, p1) => `<span class="char-circle">${p1}</span>`
         );
         const transformedReadText = transformedText.replace(
