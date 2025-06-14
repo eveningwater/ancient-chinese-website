@@ -201,3 +201,39 @@ search: true # 或 false
 ➀ 
 
 ➁
+
+## 阐
+
+（readchǎnread闡）：
+
+➀ 
+
+➁
+
+## 燀
+
+（readchǎnread）：
+
+➀
+
+➁
+
+➂
+
+➃
+
+## 冁
+
+（readchǎnread囅）：
+
+[冁然]笑的样子。《庄子·达生》：“桓公～～而笑。”
+
+## 蒇
+
+（readchǎnread）：
+
+## 羼
+
+（readchànread）：
+
+掺杂。《颜氏家训·书记》：“典籍错乱……皆由后人所～，非本文也。”
