@@ -4,7 +4,7 @@ search: true # 或 false
 
 ## 伥
 
-（readchāngread倀）：
+（readchāngread 倀）：
 
 ➀
 
@@ -40,7 +40,7 @@ search: true # 或 false
 
 ## 长
 
-（readchángread長）：
+（readchángread 長）：
 
 ➀
 
@@ -55,3 +55,27 @@ search: true # 或 false
 ➅
 
 ➆
+
+## 苌
+
+（readchángread）：
+
+## 场
+
+（readchángread）：
+
+➀
+
+➁
+
+➂
+
+➃
+
+## 尝
+
+（readchángread）：
+
+➀
+
+➁
