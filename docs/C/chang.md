@@ -58,7 +58,9 @@ search: true # 或 false
 
 ## 苌
 
-（readchángread）：
+（readchángread 萇）：
+
+[苌楚]一种植物，也叫“羊桃”。《诗经·桧风·隰（xí）有苌楚》：“隰有～～。“（隰：低湿的地方。）
 
 ## 场
 
