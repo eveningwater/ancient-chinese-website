@@ -134,9 +134,9 @@ search: true # 或 false
 
 （readchǎngread）：
 
-➀
+➀ 宽阔。
 
-➁
+➁ 敞开。
 
 ➂
 
