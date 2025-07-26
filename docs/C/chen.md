@@ -22,4 +22,34 @@ search: true # 或 false
 
 ## 臣
 
+（readchénread）：
+
 ## 辰
+
+（readchénread）：
+
+## 宸
+
+（readchénread）：
+
+## 尘
+
+（readchénread）：
+
+## 忱
+
+（readchénread）：
+
+## 沉
+
+（readchénread）：
+
+## 陈
+
+（readchénread）：
+
+## 谌
+
+（readchénread）：
+
+可移动的炉灶。《诗经·小雅·白华》：“樵彼桑薪，<ac-font-source text="卬" :explain="{pinyin:'áng',explain:[{explain:'第一人称代词。我。',source:'古汉语字典'}],more:'../A/ang#卬'}" />烘于～。”（卬：我。）
