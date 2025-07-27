@@ -53,3 +53,9 @@ search: true # 或 false
 （readchénread）：
 
 可移动的炉灶。《诗经·小雅·白华》：“樵彼桑薪，<ac-font-source text="卬" :explain="{pinyin:'áng',explain:[{explain:'第一人称代词。我。',source:'古汉语字典'}],more:'../A/ang#卬'}" />烘于～。”（卬：我。）
+
+## 趻
+
+（readchénread）：
+
+[趻踔]跳着走。《庄子·秋水》：“吾以一足～～而行，予无如矣。”（予无如：不如我。）
