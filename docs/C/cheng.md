@@ -15,3 +15,9 @@ search: true # 或 false
 ## 称
 
 （readchēngread稱）：
+
+## 赪
+
+（readchēngread）：
+
+红色。《诗经·周南·汝坟》：“鲂（fáng）鱼～尾。”（鲂：一种淡水鱼。）陆游《养疾》诗：“枫林晓渐～。”
