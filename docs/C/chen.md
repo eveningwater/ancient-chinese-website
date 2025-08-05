@@ -24,6 +24,12 @@ search: true # 或 false
 
 （readchénread）：
 
+➀
+
+➁
+
+➂
+
 ## 辰
 
 （readchénread）：
@@ -56,6 +62,17 @@ search: true # 或 false
 
 ## 趻
 
-（readchénread）：
+（readchěnread）：
 
 [趻踔]跳着走。《庄子·秋水》：“吾以一足～～而行，予无如矣。”（予无如：不如我。）
+
+## 疢
+
+（readchěnread）：
+
+热病。《诗经·小雅·小弁（pán）》：“心之忧矣,～如疾首。”o引o灾祸。《孟子·尽心上》：“人之德慧术知者，恒存乎～疾。”o又o毛病，缺点。《抱朴子·博喻》：“小疵不足以损大器，短～不足以累长才。”
+
+## 龀
+
+（readchènread）：
+
