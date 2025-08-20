@@ -2,7 +2,38 @@
 search: true # 或 false
 ---
 
-## 吃
+## 吃<sup>1</sup>
+
+（readchīread）：
+
+➀
+
+➁
+
+## 吃<sup>2</sup>
+
+（readchīread）：
+
+## 蚩
+
+（readchīread）：
+
+➀
+
+➁
+
+➂
+
+➃
+
+➄
+
+## 嗤
+
+（readchīread）：
+
+讥笑，嘲笑。柳宗元《哭连州凌员外司马》诗：“今为众所～。”成语有“嗤之以鼻。”
+
 
 ## 彳
 
