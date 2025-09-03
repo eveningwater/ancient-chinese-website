@@ -36,7 +36,7 @@ export default defineConfig({
       { text: "首页", link: "/" },
       { text: "在线字典", link: "/docs/A/a" },
       { text: "文言文示例", link: "/example/韩愈/进学解" },
-      { text: "古文观止", link: "/archaism/volume1-zhou1/1" },
+      { text: "古文观止", link: "/archaism/卷一·周文一/郑伯克段于鄢" },
       {
         text: "关于个人",
         items: [
@@ -96,7 +96,7 @@ export default defineConfig({
           (_match, p1) => `<span class="char-circle">${p1}</span>`
         );
         const transformedReadText = transformedText.replace(
-          /read(.*?)read/g,
+          /read\s+(.*?)\s+read/g,
           (_match, p1) => `<ac-read-text>${p1}</ac-read-text>`
         );
 
