@@ -36,6 +36,7 @@ export default defineConfig({
       { text: "首页", link: "/" },
       { text: "在线字典", link: "/docs/A/a" },
       { text: "文言文示例", link: "/example/韩愈/进学解" },
+      { text: "古文观止", link: "/archaism/volume1-zhou1/1" },
       {
         text: "关于个人",
         items: [
