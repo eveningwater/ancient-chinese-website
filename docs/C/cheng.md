@@ -199,7 +199,7 @@ search: true # 或 false
 
 ## 惩
 
-（readchéngread）：
+（readchéngread懲）：
 
 ➀
 
