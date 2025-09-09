@@ -1,5 +1,5 @@
 ---
-search: true # 或 false
+search： true # 或 false
 ---
 
 ## 吃<sup>1</sup>
@@ -75,6 +75,71 @@ search: true # 或 false
 （readchīread）：
 
 ## 池
+
+(readchíread)：
+
+## 弛
+
+(readchíread)：
+
+## 驰
+
+(readchíread)：
+
+## 迟
+
+(readchíread)：
+
+## 坻
+
+(readchíread)：
+
+## 持
+
+(readchíread)：
+
+## 𫔂
+
+(readchíread鍉)：
+
+## 漦
+
+(readchíread)：
+
+## 墀
+
+(readchíread)：
+
+## 踟
+
+(readchíread)：
+
+## 篪
+
+(readchíread)：
+
+## 尺
+
+（readchǐread）：
+
+## 齿
+
+（readchǐread）：
+
+## 侈
+
+（readchǐread）：
+
+## 哆
+
+（readchǐread）：
+
+## 胣
+
+（readchǐread）：
+
+把腹破开掏出肠子。《庄子·胠（qū）箧》：“昔者龙逢斩，比干剖，<ac-font-source text="苌" :explain="{pinyin:'cháng',explain:[{explain:'[苌楚]一种植物，也叫“羊桃”',source:'古汉语字典'}],more:'../C/chang#苌'}" />弘～，子胥靡。”（靡：糜烂。）
+
 
 ## 彳
 
