@@ -140,6 +140,15 @@ search： true # 或 false
 
 把腹破开掏出肠子。《庄子·胠（qū）箧》：“昔者龙逢斩，比干剖，<ac-font-source text="苌" :explain="{pinyin:'cháng',explain:[{explain:'[苌楚]一种植物，也叫“羊桃”',source:'古汉语字典'}],more:'../C/chang#苌'}" />弘～，子胥靡。”（靡：糜烂。）
 
+## 耻
+
+（readchǐread）：
+
+## 豉
+
+（readchǐread）：
+
+豆豉，一种用豆类制成的食品。王羲之《豉酒帖》：“小服～酒至佳。”《世说新语·言语》：“有千里蓴（chún）羹，但未下盐～耳。”（蓴：同“莼”。莼菜：水葵。）
 
 ## 彳
 
