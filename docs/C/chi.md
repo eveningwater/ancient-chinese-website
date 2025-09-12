@@ -179,3 +179,13 @@ search： true # 或 false
 ## 迣
 
 （readchìread）：
+
+## 饬
+
+（readchìread）：
+
+## 抶
+
+（readchìread）：
+
+鞭打。《左传·文公十年》：“无畏～其仆以徇。”（无畏：人名。徇：示众。）
