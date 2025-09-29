@@ -42,7 +42,7 @@ search： true # 或 false
 
 ## 鸱
 
-（readchīread<img src="./images/鸱.png" style="width: 45px;height:45px;" />（查阅资料暂无这个写法，这是古汉语字典提供的写法，目测是有误的。））：
+（readchīread<img src="./images/鸱.png" style="width: 45px;height:45px;display:inline-block;vertical-align:bottom;margin-bottom:2px;" />（查阅资料暂无这个写法，这是古汉语字典提供的写法，目测是有误的。））：
 
 ➀ 一种凶猛的鸟，也叫鹞（yào）鹰。《庄子·秋水》：“～得腐鼠。”[鸱鸮（xiāo）]1.古代指鹪鹩（jiāoliáo），一种小鸟。《诗经·<ac-font-source text="豳" :explain="{pinyin:'bīn',explain:[{explain:'古国名，周代先祖公刘在此立国，在今陕西旬邑西南一带',source:'古汉语字典'}],more:'../B/bin#豳'}" />风·鸱鸮》：“～～，～～，既取我子，无惠我室。”（室：指鸟巢。）2.猫头鹰一类的鸟。李商隐《隋师东》诗：“岂假～～在泮（pàn）林。”（泮林：学宫前的树林。）这个意义又写作“鸱枭”。[鸱鸺（xiū）]猫头鹰。《庄子·秋水》：“～～夜撮蚤。”（撮：抓。蚤：跳蚤。）
 
@@ -58,7 +58,11 @@ search： true # 或 false
 
 ## 痴
 
-（readchīread）：
+（readchīread癡）：
+
+➀ 傻。王充《论衡·道虚》：“～愚之人，尚知怪之。”（尚：尚且。）刘义庆《世说新语·赏誉》：“王蓝田为人晚成，时人乃谓之～。”o引o入了迷。《新唐书·窦威传》：“独威尚文，诸兄诋为书～。”成语有“痴心妄想”。
+
+➁ 停滞不动。陆游《芒种后经旬无日不雨偶得长句》：“～云不散常遮塔，野水无声自入池。”又久雨不止叫“痴雨”。
 
 ## 摛
 
