@@ -42,7 +42,7 @@ search： true # 或 false
 
 ## 鸱
 
-（readchīread<img src="./images/鸱.png" style="width: 45px;height:45px;display:inline-block;vertical-align:bottom;margin-bottom:2px;" />（查阅资料暂无这个写法，这是古汉语字典提供的写法，目测是有误的。））：
+（readchīread<img src="./images/鸱.png" style="width: 30px;height:30px;display:inline-block;vertical-align:bottom;margin-bottom:2px;" />（查阅资料暂无这个写法，这是古汉语字典提供的写法，目测是有误的。））：
 
 ➀ 一种凶猛的鸟，也叫鹞（yào）鹰。《庄子·秋水》：“～得腐鼠。”[鸱鸮（xiāo）]1.古代指鹪鹩（jiāoliáo），一种小鸟。《诗经·<ac-font-source text="豳" :explain="{pinyin:'bīn',explain:[{explain:'古国名，周代先祖公刘在此立国，在今陕西旬邑西南一带',source:'古汉语字典'}],more:'../B/bin#豳'}" />风·鸱鸮》：“～～，～～，既取我子，无惠我室。”（室：指鸟巢。）2.猫头鹰一类的鸟。李商隐《隋师东》诗：“岂假～～在泮（pàn）林。”（泮林：学宫前的树林。）这个意义又写作“鸱枭”。[鸱鸺（xiū）]猫头鹰。《庄子·秋水》：“～～夜撮蚤。”（撮：抓。蚤：跳蚤。）
 
