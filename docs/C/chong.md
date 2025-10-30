@@ -87,6 +87,8 @@ search： true # 或 false
 
 （readchóngread）：
 
+见“[重（zhòng）](../Z/zhong#重)”字。
+
 ## 崇
 
 ## 宠
