@@ -4,7 +4,19 @@ search： true # 或 false
 
 ## 出
 
+（readchūread）：
+
 ## 初
+
+（readchūread）：
+
+## 樗
+
+## 貙
+
+（readchūread）：
+
+一种野兽。柳宗元《说罴（pí）》：“鹿畏～，～畏虎，虎畏罴。”
 
 ## 滁
 

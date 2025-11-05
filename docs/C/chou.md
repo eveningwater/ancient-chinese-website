@@ -40,6 +40,16 @@ search： true # 或 false
 
 ➂ qiú（求）。姓。
 
+## 䌷
+
+（readchóuread）：
+
+➀ 丝织品。
+
+➁
+
+➂
+
 ## 惆
 
 （readchóuread）：
