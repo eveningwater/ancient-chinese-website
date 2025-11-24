@@ -73,7 +73,11 @@ search： true # 或 false
 
 ## 踌
 
+（readchóuread）：
+
 ## 筹
+
+（readchóuread）：
 
 ## 惆
 
@@ -85,17 +89,31 @@ search： true # 或 false
 
 ## 绸
 
+（readchóuread）：
+
 ## 稠
+
+（readchóuread）：
 
 ## 裯
 
+（readchóuread）：
+
 ## 酬
+
+（readchóuread）：
 
 ## 愁
 
+（readchóuread）：
+
 ## 雠
 
+（readchóuread）：
+
 ## 幬
+
+（readchóuread）：
 
 ## 丑<sup>1</sup>
 
