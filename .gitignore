@@ -3,3 +3,5 @@ build
 gh-pages
 .vitepress/cache/**/*
 .vitepress/cache/*
+ancient-chinese-website.zip
+ancient-chinese-website/**/*
