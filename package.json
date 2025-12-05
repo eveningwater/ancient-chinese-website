@@ -4,6 +4,7 @@
     "docs:build": "vitepress build",
     "docs:preview": "vitepress preview",
     "release": "gh-pages -d ancient-chinese-website",
+    "build": "npm run docs:build && node script/build.js",
     "deploy": "npm run docs:build && npm run release"
   },
   "dependencies": {
