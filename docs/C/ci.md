@@ -40,6 +40,8 @@ search： true # 或 false
 
 （readcíread茲）：
 
+见[兹](../Z/zi.md#兹)。
+
 ## 慈
 
 （readcíread）：
