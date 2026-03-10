@@ -11,3 +11,34 @@ search： true # 或 false
 ➁
 
 ## 存
+
+（readcúnread）：
+
+➀
+
+➁
+
+➂
+
+➃
+
+## 踆
+
+（readcúnread）：
+
+➀
+
+➁
+
+➂
+
+## 忖
+
+（readcǔnread）：
+
+## 寸
+
+（readcùnread）：
+➀
+
+➁
