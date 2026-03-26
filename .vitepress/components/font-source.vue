@@ -47,8 +47,11 @@ const handleClick = (url: string) => {
     const baseUrl = window.location.origin;
     const filterUrl = url.includes('../') ? url.replace('../','') : url.includes('./') ? url.replace('./','') : url;
     console.log(filterUrl);
+    const lastChar = filterUrl.slice(-2);
+    const prevChar = filterUrl.slice(0,filterUrl.length - 2);
     const firstLetter = filterUrl.slice(0,1).toUpperCase();
-    const moreUrl = `${baseUrl}/ancient-chinese-website/docs${filterUrl.includes(firstLetter) ? '' : '/' + firstLetter}/${filterUrl}`;
+    const lastUrl = baseUrl.includes('eveningwater.com') ? prevChar + '.html' + lastChar : filterUrl;
+    const moreUrl = `${baseUrl}/ancient-chinese-website/docs${filterUrl.includes(firstLetter) ? '' : '/' + firstLetter}/${lastUrl}`;
     console.log(moreUrl);
     openNewWindow(moreUrl);
 }
