@@ -34,7 +34,9 @@ search: true # 或 false
 
 ## 郸
 
-（readdānread）：
+（readdānread鄲）：
+
+见[“邯”](../H/han#邯)字。
 
 ## 殚
 
