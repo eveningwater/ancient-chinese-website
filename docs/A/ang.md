@@ -6,7 +6,7 @@ search: true # 或 false
 
 (áng):
 
-➀ 第一人称代词。我。《[诗经·邶（bèi）风·匏（páo）有苦叶](https://baike.baidu.com/item/%E9%82%B6%E9%A3%8E%C2%B7%E5%8C%8F%E6%9C%89%E8%8B%A6%E5%8F%B6/19672766?fr=ge_ala)》：“人涉～否，～须我友。”（涉：过河。须：等待。）
+➀ 第一人称代词。我。《[诗经·<ac-font-source text="邶" :explain="{pinyin:'bèi',explain:[{explain:'周朝诸侯国名，在今河南淇县以北，汤阴东南一带。',source:'古汉语字典'}],more:'../B/bei#邶'}" />风·匏（páo）有苦叶](https://baike.baidu.com/item/%E9%82%B6%E9%A3%8E%C2%B7%E5%8C%8F%E6%9C%89%E8%8B%A6%E5%8F%B6/19672766?fr=ge_ala)》：“人涉～否，～须我友。”（涉：过河。须：等待。）
 
 ➁ 通“昂”。抬起，抬高。司马迁《报任安书》：“迺（nǎi，又作乃）欲～首伸眉，论列是非。”（迺：乃。列：陈述。）柳宗元《[蝜蝂（fùbǎn）传](https://baike.baidu.com/item/%E8%9D%9C%E8%9D%82%E4%BC%A0/1850798?fr=ge_ala)》：“～其首负之。” 引高，升高。《汉书·食货志下》：“万物～贵。”（卬贵，同“昂贵”。）司马相如《[长门赋](https://baike.baidu.com/item/%E9%95%BF%E9%97%A8%E8%B5%8B/3075468?fr=ge_ala)》：“意慷慨而志～。”
 

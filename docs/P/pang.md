@@ -70,4 +70,4 @@ search: true # 或 false
 
 （páng）：
 
-雪很大的样子。《诗经·邶风·北风》：“北风其凉，雨雪其～。”
+雪很大的样子。《诗经·<ac-font-source text="邶" :explain="{pinyin:'bèi',explain:[{explain:'周朝诸侯国名，在今河南淇县以北，汤阴东南一带。',source:'古汉语字典'}],more:'../B/bei#邶'}" />风·北风》：“北风其凉，雨雪其～。”
