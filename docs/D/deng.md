@@ -34,4 +34,12 @@ search: true # 或 false
 
 ## 磴
 
+(readdèngread墱、隥‌)：
+
+➀
+
+➁
+
+➂
+
 ## 蹬
