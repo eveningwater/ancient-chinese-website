@@ -142,13 +142,27 @@ search: true # 或 false
 
 （readdíread）：
 
+箭头。张华《博物志》卷九：“以燋（jiāo）铜为～，涂毒药于～锋，中（zhòng）人即死。”（燋铜：烧过的铜。中：射中。）又写作“𫔂”。
+
 ## 蹢
 
 （readdíread）：
 
+➀
+
+➁
+
+➂
+
 ## 翟
 
+（readdíread）：
+
 ## 篴
+
+（readdíread）：
+
+“笛”的古字。一种管乐器。《周礼·春官·笙师》：“掌教吹竽、笙、埙（xūn）、籥（yuè）、<ac-font-source text="篪" :explain="{pinyin:'chí',explain:[{explain:'一种竹子或一种乐器。',source:'古汉语字典'}],more:'../C/chi#篪'}" />、～、管。”（埙：一种陶土烧制的乐器。籥、篪：两种管乐器。）
 
 ## 氐<sup>2</sup>
 
