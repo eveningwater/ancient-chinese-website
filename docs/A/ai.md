@@ -4,7 +4,7 @@ search: true # 或 false
 
 ## 哀
 
-(āi)：
+(readāiread)：
 
 
 ➀ 悲痛，伤心。《[离骚-屈原](../../example/屈原/离骚.md)》：“～众芳之芜秽（wú huì）。”（芳：香草。芜秽：荒芜。）㊕ 父母之丧。《[宋书·张敷传](https://baike.baidu.com/item/%E5%AE%8B%E4%B9%A6/1995398?fr=aladdin)》：“居～毁灭，孝道淳至。”
@@ -16,13 +16,13 @@ search: true # 或 false
 
 ## 埃
 
-(āi)：
+(readāiread)：
 
 ➀ 尘土。《[荀子·劝学](../../example/荀子/劝学.md)》：“上食～土，下饮黄泉。”
 
 ## 欸
 
-(āi)：
+(readāiread)：
 
 ➀ 应声。《[方言](http://www.baike.com/wiki/%E3%80%8A%E6%96%B9%E8%A8%80%E3%80%8B)》十：“～，殹（yī）上言下，然也。”
 
@@ -32,13 +32,13 @@ search: true # 或 false
 
 ## 騃
 
-(ái)：
+(readáiread𫘤)：
 
 ➀ 痴愚。《[汉书·息夫躬传](https://baike.baidu.com/item/%E6%B1%89%E4%B9%A6/363840?fr=aladdin)》十：“外有直项之名，内实～不晓政事。（直项：刚直。）”
 
 ## 硙
 
-ái：
+(readáiread)：
 
 ➀ wèi（位）。石磨。《[急就篇-史游](https://baike.baidu.com/item/%E6%80%A5%E5%B0%B1%E7%AF%87/2172280?fr=aladdin)》卷三：“碓（duì）～扇隤（tuí）簸扬。”颜师古注：“～所以䃺（mò）也，亦谓之䃀（cuì）。古者雍父作春，鲁班作～。”（隤：坠。䃺：“磨”的异体。雍父、鲁班：人名。）
 
@@ -80,7 +80,7 @@ search: true # 或 false
 
 ## 霭
 
-(ǎi)：
+(readǎiread)：
 
 云雾。柳永《[雨霖铃](https://baike.baidu.com/item/%E9%9B%A8%E9%9C%96%E9%93%83/668352?fr=aladdin)》：暮～沉沉楚天阔。
 
@@ -118,7 +118,7 @@ search: true # 或 false
 
 ## 爱
 
-(ài)：
+(readàiread)：
 
 ➀ 爱。《[史记·陈涉世家](https://baike.baidu.com/item/%E9%99%88%E6%B6%89%E4%B8%96%E5%AE%B6/730692?fr=ge_ala)》：“吴广素～人。”
 
@@ -128,7 +128,7 @@ search: true # 或 false
 
 ## 僾
 
-(ài)：
+(readàiread)：
 
 ➀ 呼吸不顺，窒息。《[诗经·大雅·桑柔](https://baike.baidu.com/item/%E5%A4%A7%E9%9B%85%C2%B7%E6%A1%91%E6%9F%94/2652362?fr=ge_ala)》：“如彼溯风，亦孔之～。”（溯：向。孔：很。）
 
@@ -136,7 +136,7 @@ search: true # 或 false
 
 ## 薆
 
-(ài)：
+(readàiread)：
 
 ➀ 隐蔽的样子。 屈原《[离骚](https://baike.baidu.com/item/%E7%A6%BB%E9%AA%9A/122903?fr=ge_ala)》：“何琼佩之偃蹇（yǎn jiǎn）兮，众～然而蔽之。”（偃蹇：高高的样子。）
 
@@ -146,7 +146,7 @@ search: true # 或 false
 
 ## 叆
 
-(ài)：
+(readàiread)：
 
 ➀ [叆叇（dài）] 1. 云多的样子。 潘尼《[逸民吟](https://baike.baidu.com/item/%E9%80%B8%E6%B0%91%E5%90%9F/22451180?fr=ge_ala)》：“朝云～～，行路未晞（xī）。”（行：路。晞：晒干。） 2. 一种器物，类似眼镜。田艺蘅（héng ）《[留青日札（zhá）](https://baike.baidu.com/item/%E7%95%99%E9%9D%92%E6%97%A5%E6%9C%AD/10014657?fr=ge_ala)摘抄》卷二：“提学副使潮阳林公有二物，如大钱形，质薄而透明，如硝子石，如琉璃，色如云母，每看文章，目力昏倦，不辨细书，以此掩目，精神不散，笔画倍明。中用绫绢联之，缚于脑后。人皆不识，举以问余。余曰： 此～～也。”
 
@@ -156,7 +156,7 @@ search: true # 或 false
 
 ## 暧
 
-(ài)：
+(readàiread)：
 
 昏暗。谢瞻《[王抚军庾西阳集别](https://baike.baidu.com/item/%E7%8E%8B%E6%8A%9A%E5%86%9B%E5%BA%BE%E8%A5%BF%E9%98%B3%E9%9B%86%E5%88%AB%E6%97%B6%E4%B8%BA%E8%B1%AB%E7%AB%A0%E5%A4%AA%E5%AE%88%E5%BA%BE%E8%A2%AB%E5%BE%B5%E8%BF%98%E4%B8%9C%E8%AF%97/50569777?fr=ge_ala)》诗：“夕阴～平陆。” [暧暧]昏暗不明的样子。屈原《离骚》：“时～～其将罢（pí）兮（时间已晚，人也感到疲倦了。罢通“疲”。）
 
@@ -164,7 +164,7 @@ search: true # 或 false
 
 ## 隘
 
-(ài)：
+(readàiread)：
 
 ➀ 狭窄，狭小。《[左传·昭公三年](https://baike.baidu.com/item/%E6%99%AF%E5%85%AC%E6%AC%B2%E6%9B%B4%E6%99%8F%E5%AD%90%E4%B9%8B%E5%AE%85/8411980?fr=ge_ala)》：“子之宅近市，湫（jiǎo）～嚣尘，不可以居。”（湫：低下，低洼。嚣尘：噪杂多尘。）
 
@@ -174,6 +174,6 @@ search: true # 或 false
 
 ## 餲
 
-(ài)：
+(readàiread)：
 
 食物经久而变味。《[论语·乡党](https://baike.baidu.com/item/%E8%AE%BA%E8%AF%AD%C2%B7%E4%B9%A1%E5%85%9A/9937507?fr=ge_ala)》：“食饐（yì，食字旁又作饣，因此该字也可以简写𮩞）而餲，鱼馁（něi）而肉败，不食。”（饐：腐臭。馁：腐烂。）
