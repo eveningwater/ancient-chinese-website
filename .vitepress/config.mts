@@ -3,12 +3,18 @@ import { sidebar } from "./sidebar.mts";
 
 // github pages: /ancient-chinese-website/
 // vercel.com: /
+// 阿里云 esa pages: / （由 esa.jsonc 的构建命令注入 ESA_PAGES=true 环境变量识别）
+const isEsaPages = process.env.ESA_PAGES === "true";
 const base =
-  process.env.NODE_ENV === "development" ? "/" : "/ancient-chinese-website/";
+  process.env.NODE_ENV === "development" || isEsaPages
+    ? "/"
+    : "/ancient-chinese-website/";
+// esa 部署时产物输出到 ./dist，与 esa.jsonc 的 assets.directory 保持一致
+const outDir = isEsaPages ? "./dist" : "./ancient-chinese-website";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base,
-  outDir: "./ancient-chinese-website",
+  outDir,
   title: "古汉语词典在线网站",
   description: "一个古汉语在线网站",
   head: [

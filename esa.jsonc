@@ -1,0 +1,14 @@
+{
+  // 阿里云 ESA Pages 构建配置
+  // 注意：一旦存在此文件，它将作为构建配置的唯一来源，优先级高于 ESA 控制台的配置
+  "installCommand": "pnpm install",
+  // 注入 ESA_PAGES=true，让 .vitepress/config.mts 使用 base=/ 并输出到 ./dist
+  // 只执行 vitepress 构建，不运行 script/build.js（它会打包 zip 并删除产物目录）
+  "buildCommand": "ESA_PAGES=true pnpm docs:build",
+  "assets": {
+    // VitePress 构建产物输出目录（见根目录 .vitepress/config.mts 的 outDir，ESA 构建时为 ./dist）
+    "directory": "./dist",
+    // VitePress 是静态站点生成器，未匹配路径时返回 404.html（VitePress 会自动生成）
+    "notFoundStrategy": "404Page"
+  }
+}
